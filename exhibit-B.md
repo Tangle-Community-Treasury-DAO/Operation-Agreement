@@ -934,6 +934,8 @@ An example of how such an event file looks like is the event we used for the BUI
 
 ---
 # Exhibit B - Procedure B: The Shimmer Community Grant Committee
+
+*This is the full specification for all operational processes and ordinary and usual decisions concerning business affairs of the Company while operating the Shimmer Community Grant Committee. Detailed rules and procedures are defined here.*
 ---
 
 ## Shimmer Community Grant Committee - Operation Specification
