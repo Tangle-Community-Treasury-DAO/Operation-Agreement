@@ -2,7 +2,7 @@
 
 This document consits of two parts:
 
-- [Procedure A]
+- [Procedure A](#exhibit-b---procedure-a-the-shimmer-governance-framework)
 - [Procedure B](#exhibit-b---procedure-b-the-shimmer-community-grant-committee)
 ---
 ## Exhibit B - Procedure A: The Shimmer Governance Framework
