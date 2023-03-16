@@ -1,6 +1,9 @@
 # Exhibit B
 
+This document consits of two parts:
 
+- [Procedure A]
+- [Procedure B](#exhibit-b---procedure-b-the-shimmer-community-grant-committee)
 ---
 ## Exhibit B - Procedure A: The Shimmer Governance Framework
 
