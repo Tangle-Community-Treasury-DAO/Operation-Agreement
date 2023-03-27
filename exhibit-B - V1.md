@@ -1,4 +1,4 @@
-# Exhibit B V1
+# Exhibit B - V1
 
 ## The Shimmer Governance Framework
 
