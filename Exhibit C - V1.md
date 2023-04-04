@@ -126,7 +126,7 @@ As long as the market cap of Shimmer is low, we need to take a considerably more
 
 ### 4.4 Application and scoring process
 
-The teams must provide the following details in an [**application questionnaire form**](https://www.shimmergov.community/airtable-proposal-form):
+The teams must provide the following details in an [**application questionnaire form**](https://www.tangletreasury.org/airtable-proposal-form):
 
 **Proposal Title**
 
@@ -211,7 +211,7 @@ The teams must provide the following details in an [**application questionnaire 
 
 **This does not imply that automatically such an offer will lead to granting the extra points. Granting these additional points is decided on a case by case basis.**
 
-[**JD Sutton has built a Notion Database for this selection process**](https://airtable.com/shrvZgn3NVsXLTXev/tblAzVWXeTSvUyZI3)
+[**JD Sutton has built a Database for this selection process**](https://www.tangletreasury.org/proposals)
 
 The scoring system is a guideline for reviewers. We understand that it may only sometimes apply to some kinds of projects.
 
