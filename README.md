@@ -35,7 +35,7 @@ Minor revisions to this legal document, such as correcting typographical errors 
 
 If you wish to join the community to advance decentralized governance on the Shimmer and IOTA networks, weekly meetings and daily discussions are held within the IOTA & Shimmer Discord channel, specifically in the [#governance-discussion channel](https://discordapp.com/channels/397872799483428865/839927402242637834). Additionally, all treasury information and access to submitting grant proposals to the community treasury can be found at [TangleTreasury.org](https://www.tangletreasury.org).
     
-If you would like to join the community to advance decentralized governance on the Shimmer and IOTA networks, there are weekly meetings and daily discussions within the IOTA & Shimmer discord found in the [#governance-discussion thread](https://discordapp.com/channels/397872799483428865/839927402242637834). 
+If you would like to join the community to advance decentralized governance on the Shimmer and IOTA networks, there are weekly meetings and daily discussions within the IOTA & Shimmer discord found in the [#governance-discussion channel](https://discordapp.com/channels/397872799483428865/839927402242637834). 
 
 Additionally, all treasury information and access to submitting grant proposals to the community treasury can be found at [TangleTreasury.org](https://www.tangletreasury.org).
 
