@@ -7,6 +7,7 @@
   <a href="https://wiki.iota.org/shimmer/learn/governance/shimmer-governance-intro" style="text-decoration:none;"><img src="https://img.shields.io/badge/Wikipedia-Governance-blue" </a>
   <a href="https://tangletreasury.org/" style="text-decoration:none;"><img src=https://img.shields.io/badge/TangleTreasury-.org-blue"
 </p>
+  <a href="https://govern.iota.org/c/shimmer-governance-proposals/51" style="tex-decoration:none;"><img src="https://img.shields.io/badge/Govern-IOTA.org-lightgrey" </a>
 
 <p align="center">
   <a href="#about">About</a> ◈
@@ -29,7 +30,7 @@ These exhibits are constitutive documents that establish the Tangle DAO LLC oper
 
 The community welcomes contributions and recommendations to further develop the governance and treasury frameworks. However, any changes that alter the intent of Exhibit B and Exhibit C must be completed by following the procedures outlined in Exhibit B. After a successful phase III community vote, a pull request can be submitted to update the exhibits in accordance with the community's agreed consensus.
 
-Minor revisions to this legal document, such as correcting typographical errors or formatting inconsistencies, may be made without community approval. However, any changes that affect the substantive meaning or purpose of the document must be approved by the appropriate parties.
+Minor revisions to this legal document, such as correcting typographical errors or formatting inconsistencies, may be made without community approval. However, any changes that affect the substantive meaning or purpose of the document must be approved by the community via governance vote.
 
 ## Joining the discussion
 
