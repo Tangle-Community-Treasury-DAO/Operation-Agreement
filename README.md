@@ -21,7 +21,7 @@
 This repository contains governance documents that were collectively created by the IOTA and Shimmer community, with the support of the IOTA foundation. The community voted to adopt these frameworks as the operating processes and procedures for conducting Shimmer governance and managing the Shimmer community treasury.
 
   - [Exhibit B](https://github.com/Tangle-Community-Treasury-DAO/Operation-Agreement/blob/main/Exhibit%20B%20-%20V1.md): Shimmer Governance Framework
-  - [Exhibit C](https://github.com/Tangle-Community-Treasury-DAO/Operation-Agreement/blob/main/Exhibit%20C%20-%20V1.md): Shimmer Community Grant Committee Framework
+  - [Exhibit C](https://github.com/Tangle-Community-Treasury-DAO/Operation-Agreement/blob/main/Exhibit%20C%20-%20V1.md): Shimmer Community Grant Committee Specification
 
 These exhibits are constitutive documents that establish the Tangle DAO LLC operating agreement for the Shimmer community treasury LLC (Tangle DAO) formed in the Republic of the Marshall Islands.
 
