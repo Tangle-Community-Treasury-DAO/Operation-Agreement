@@ -23,7 +23,7 @@ This repository contains governance documents that were collectively created by 
   - [Exhibit B](https://github.com/Tangle-Community-Treasury-DAO/Operation-Agreement/blob/main/Exhibit%20B%20-%20V1.md): Shimmer Governance Framework
   - [Exhibit C](https://github.com/Tangle-Community-Treasury-DAO/Operation-Agreement/blob/main/Exhibit%20C%20-%20V1.md): Shimmer Community Grant Committee Specification
 
-These exhibits are constitutive documents that establish the Tangle DAO LLC operating agreement for the Shimmer community treasury LLC (Tangle DAO) formed in the Republic of the Marshall Islands.
+These exhibits are constitutive documents that establish the Tangle DAO LLC operating agreement for the Shimmer Community Treasury Grant Committee formed in the Republic of the Marshall Islands.
 
 ## Contributions
 
