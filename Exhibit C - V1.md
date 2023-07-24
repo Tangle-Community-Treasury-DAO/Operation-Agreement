@@ -1,20 +1,19 @@
-# Exhibit C - V1
+# Exhibit C - V2
 
-## The Shimmer Community Grant Committee
+## The Tangle Community Treasury Committee Specification
 
-*This is the full specification for all operational processes and ordinary and usual decisions concerning business affairs of the Company while operating the Shimmer Community Grant Committee. Detailed rules and procedures are defined here.*
+*This is the full specification for all operational processes and ordinary and usual decisions concerning the business affairs of the Tangle DAO LLC while operating the Tangle Community Treasury committee. Detailed rules and procedures are defined here.*
 ---
 
-## Shimmer Community Grant Committee - Operation Specification
+## Tangle Community Treasury Committee - Operation Specification
 
-The Shimmer Community Treasury Grant Committee was established in the Governance Votes [SGP-005](https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576), the committee members got selected in [SGP - 001](https://govern.iota.org/t/sgp-0001-shimmer-community-grant-committee-lead-selection/1544/1) and [SGP - 002](https://govern.iota.org/t/sgp-0002-shimmer-community-grant-committee-grant-reviewer-selection/1546) by the Shimmer Token holders.
-The Committee received a budget of 27.204.307 SMR for one year of operation from the 181.362.051 SMR large Community Treasury. This article contains the operation specification under which the elected committee members operate and steward the received budget.
+The Tangle Community Treasury committee was established in the Governance Votes [SGP-005](https://govern.iota.org/t/sgp-0005-shimmer-community-treasury-grant-committee/1576), the committee members got selected in [SGP - 001](https://govern.iota.org/t/sgp-0001-shimmer-community-grant-committee-lead-selection/1544/1) and [SGP - 002](https://govern.iota.org/t/sgp-0002-shimmer-community-grant-committee-grant-reviewer-selection/1546) by the Shimmer Token holders. A follow-up community vote was conducted 'n' months after the successful operation of the committee update and revised the specification to allow for more flexible and efficient operations. The committee receives operational approval and an annual funding budget through a yearly community governance vote. This article contains the operation specification under which the elected committee members operate and manage the received budget as purpose bound by the communities directives. The committee will be purpose bound to follow the received budget or any additional budgets the community decides to allocate to the Tangle DAO LLC.
 
 ## 4. Specification
 
-### _Mission of the Shimmer Community Grant Committee:_
+### _Mission of the Tangle Community Treasury Committee:_
 
-_A community-led committee-based grant program to support the Shimmer network and empower its ecosystem_
+_A community-led committee-based grant program to support the Shimmer and IOTA network while empowering the ecosystems_
 
 ### 4.1 The Committee
 
